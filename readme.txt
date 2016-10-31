@@ -1,1 +1,2 @@
-Hello!
+Hello, I've changed !
+This is a added line ...
